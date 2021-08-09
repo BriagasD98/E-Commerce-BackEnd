@@ -51,7 +51,7 @@
   <br/>
   
   **npm run seed** will seed data into the database and **npm start** will connect to the database to so users
-  may perform RESTful CRUD operations. **Insomnia is our testing app of choice!**
+  may perform RESTful CRUD operations. **Insomnia Core is our testing app of choice!**
   
   <br/>
   
