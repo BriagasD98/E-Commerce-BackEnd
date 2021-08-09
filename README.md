@@ -36,7 +36,13 @@
   
   <br/>
   
- 
+  ![GetRoute-gif](https://user-images.githubusercontent.com/83102464/128663252-0bb3683c-1923-446e-ac3e-7fdfea73bc2d.gif)
+  <br/>
+  
+  ![singleGetRoute-gif](https://user-images.githubusercontent.com/83102464/128663262-f6bc8c5d-4e17-4334-be42-54e6a955127d.gif)
+  <br/>
+  
+  ![PostPutDelete-gif](https://user-images.githubusercontent.com/83102464/128663269-8591fefa-7769-4df5-b59a-6c71b0c88258.gif)
   <br/>
   
   ## License
