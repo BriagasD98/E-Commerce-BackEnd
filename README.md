@@ -20,15 +20,15 @@
   npm init -y
   ```
   ```
-  npm i inquirer
+  npm i mysql2 sequelize
   ```
   ```
-  npm i mysql2
+  npm i express
   ```
   ```
-  npm i console.table
+  npm i dotenv
   ```
-  **I have hidden my sql credentials so you must input your own personal mysql user and password (in config/connection.js) to use the application!**
+  **I have hidden my sql credentials. You must input your own personal mysql user and password into a new .env file on your local computer to use the application!**
   
   <br/>
   
