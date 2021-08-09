@@ -33,6 +33,20 @@
   <br/>
   
   ## Usage
+  **For a video walkthrough, please follow this link:**
+  <br/>
+  
+  Once all necessary dependencies have been installed, go to the command line and enter the following commands:
+  ```
+  npm run seed
+  ```
+  ```
+  npm start
+  ```
+  <br/>
+  
+  **npm run seed** will seed data into the database and **npm start** will connect to the database to so users
+  may perform RESTful CRUD operations. **Insomnia is our testing app of choice!**
   
   <br/>
   
