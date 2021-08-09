@@ -38,7 +38,7 @@
   <br/>
   
   ## Usage
-  **For a video walkthrough, please follow this link:**
+  **For a video walkthrough, please follow this link:** https://drive.google.com/file/d/1n2jOKZ81lwKYGBhTHsVk_dmPdWEtLIYu/view
   <br/>
   
   Once all necessary dependencies have been installed, go to the command line and enter the following commands:
