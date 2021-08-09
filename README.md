@@ -1,6 +1,11 @@
 # E-Commerce-BackEnd  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
+  My challenge was to build the back end for an e-commerce site. I was given a working Express.js API and 
+  configured it to use Sequelize to interact with a MySQL database. Users may now create, read, update and delete (C.R.U.D.) data
+  from a database using Sequelize. The database includes tables such as **Categories, Products, Tags, and Product-Tags** which store data
+  about products, pricing and inventory. The tables also reference each other through IDs.
+  <br/>
   
   ## Table of Contents
   * [Installation](#Installation)
